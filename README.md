@@ -1,6 +1,23 @@
 # The Hockey Game
 
-A table top board game I developed through two years of following the design process. 
+A table top board game I developed through two years of following the design process.
+* 1st generation
+ * Cardboard game board
+ * Normal playing cards
+ * Cardboard manager and trade cards
+ * Monopoly play money and pieces
+* 2nd generation
+ * Custom game board from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+ * Custom player cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+ * Custom manager and trade cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+ * Monopoly play money and pieces
+* 3rd generation
+ * Custom game board from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+ * Custom player cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+ * Custom manager and trade cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+ * Custom play money and pieces from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+ * Custom rulebook and game box from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+
 
 ![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Design%20Process.png)
 
@@ -35,7 +52,7 @@ A table top board game I developed through two years of following the design pro
 
 The breakup of player cards can be seen in the tables below
 
-#### The number of player cards for in per round and per overall
+#### The number of player cards per round and per overall
 Player Overall | 1st Round | 2nd Round | 3rd Round | Total
 --- | --- | --- | --- | ---
 1 | 4 | 6 | 11 | 21
@@ -58,6 +75,7 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 
 * 16 total manager cards
 * Can only effect the one who draws the card
+* Both negative and positive outcomes
 
 ### Trade Cards
 
@@ -65,6 +83,7 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 
 * 16 total trade cards
 * Can effect the one who draws the card or others
+* Both negative and positive outcomes
 
 ### Draft Pick Cards
 
@@ -86,4 +105,7 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 ![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/board%20game%20cut%20out.png)
 
 <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/board%20game%20cut%20out%20side.png" width="400"> <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/back.png" width="600">
+
+* I used the website [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+* 
 
