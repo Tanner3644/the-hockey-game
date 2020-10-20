@@ -29,7 +29,8 @@ A table top board game I developed through two years of following the design pro
 
 ## Goals
 
-* Design a functional, aesthetically pleasing game to play with close friends and family
+* Design a functional, fun to play, aesthetically pleasing game, that resembles being an NHL manager
+* Develop the game from a prototype to a finished product that can be played with close friends and family
 
 ## Components
 
