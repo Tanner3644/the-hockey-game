@@ -62,7 +62,7 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 
 ### Draft Pick Cards
 
-<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/1st%20Round.png" width="50">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/2nd%20Round.png" width="50">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/3rd%20Round.png" width="50">
+<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/1st%20Round.png" width="100">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/2nd%20Round.png" width="100">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/3rd%20Round.png" width="100">
 
 * Given out after drafting
 * Which round of picks you get and how many of them depends on your team overall (This can be seen from the score matrix on the game board)
