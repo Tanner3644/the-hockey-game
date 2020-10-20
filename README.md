@@ -1,6 +1,8 @@
 # The Hockey Game
 
-A table top board game I developed through two years of 
+A table top board game I developed through two years of following the design process. 
+
+## Goals
 
 ![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Design%20Process.png)
 
@@ -76,3 +78,8 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 ### Rule Book
 
 <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Rulebook%20-%20Back.png" width="1200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Rulebook%20-%20Front.png" width="1200">
+
+## Manufacturing
+
+![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/board%20game%20cut%20out.png)
+
