@@ -26,7 +26,8 @@
   * 2-6$M for 2 Star player
   * 7-11$M for 3 Star player
   * 14$M for 4 Star player
-* There breakup of player cards can be seen in the tables below
+
+The breakup of player cards can be seen in the tables below
 
 #### The number of player cards for in per round and per overall
 Player Overall | 1st Round | 2nd Round | 3rd Round | Total
