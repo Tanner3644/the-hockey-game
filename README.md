@@ -14,6 +14,8 @@
 
 ### Player Cards
 
+<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/1%20-%20Evans.png" width="200">
+
 ![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/1%20-%20Evans.png width="40%") ![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/5%20-%20Gill.png)
 
 ### Manager Cards
