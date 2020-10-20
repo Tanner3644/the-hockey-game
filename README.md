@@ -48,13 +48,23 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 
 ### Manager Cards
 
-<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/0%20-%20Manager%20Card.png" width="300">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/7%20-%20Manager%20Card.png" width="300">
+<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/0%20-%20Manager%20Card.png" width="400">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/7%20-%20Manager%20Card.png" width="400">
+
+* 16 total manager cards
+* Can only effect the one who draws the card
 
 ### Trade Cards
 
-<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/0%20-%20Trade%20Card.png" width="300">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/4%20-%20Trade%20Card.png" width="300">
+<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/0%20-%20Trade%20Card.png" width="400">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/4%20-%20Trade%20Card.png" width="400">
+
+* 16 total trade cards
+* Can effect the one who draws the card or others
 
 ### Draft Pick Cards
+
+
+* Given out after drafting
+* Which round of picks you get and how many of them depends on your team overall (This can be seen from the score matrix on the game board)
 
 ### Play Money
 
