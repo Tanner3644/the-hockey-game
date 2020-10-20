@@ -1,6 +1,7 @@
 # The Hockey Game
 
-A table top board game I developed through two years of following the design process.
+A table top board game I developed through two years of following the design process. The designs for everything you see below was made by me in [Gravit Designer](https://www.designer.io/en/).
+
 * 1st generation
   * Cardboard game board
   * Normal playing cards
