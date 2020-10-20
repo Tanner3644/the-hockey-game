@@ -2,21 +2,21 @@
 
 A table top board game I developed through two years of following the design process.
 * 1st generation
- * Cardboard game board
- * Normal playing cards
- * Cardboard manager and trade cards
- * Monopoly play money and pieces
+  * Cardboard game board
+  * Normal playing cards
+  * Cardboard manager and trade cards
+  * Monopoly play money and pieces
 * 2nd generation
- * Custom game board from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
- * Custom player cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
- * Custom manager and trade cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
- * Monopoly play money and pieces
+  * Custom game board from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * Custom player cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * Custom manager and trade cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * Monopoly play money and pieces
 * 3rd generation
- * Custom game board from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
- * Custom player cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
- * Custom manager and trade cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
- * Custom play money and pieces from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
- * Custom rulebook and game box from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * Custom game board from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * Custom player cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * Custom manager and trade cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * Custom play money and pieces from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * Custom rulebook and game box from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
 
 
 ![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Design%20Process.png)
