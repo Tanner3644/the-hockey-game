@@ -18,6 +18,7 @@
 
 <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/41%20-%20Vega.png" width="200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/40%20-%20Walters.png" width="200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/14%20-%20Doig.png" width="200">
 
+#### The number of player cards for in per round and per overall
 Player Overall | 1st Round | 2nd Round | 3rd Round | Total
 --- | --- | --- | --- | ---
 1 | 4 | 6 | 11 | 21
@@ -26,6 +27,7 @@ Player Overall | 1st Round | 2nd Round | 3rd Round | Total
 4 | 1 | 0 | 0 | 1
 Total | 18 | 18 | 18 | 54 | 
 
+#### The percentages of player cards per round and per overall
 Player Overall | 1st Round | 2nd Round | 3rd Round
 --- | --- | --- | ---
 1 | 22.2% | 33.3% | 61.1%
