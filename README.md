@@ -6,17 +6,23 @@ A table top board game I developed through two years of following the design pro
   * Normal playing cards
   * Cardboard manager and trade cards
   * Monopoly play money and pieces
+  * 1 manufactured
+  * Time worked on: 12 months
 * 2nd generation
   * Custom game board from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
   * Custom player cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
   * Custom manager and trade cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
   * Monopoly play money and pieces
-* 3rd generation
+  * 1 manufactured
+  * Time worked on: 8 months
+* 3rd generation 
   * Custom game board from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
   * Custom player cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
   * Custom manager and trade cards from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
   * Custom play money and pieces from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
   * Custom rulebook and game box from [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
+  * 10 manufactured
+  * Time worked on: 3 months
 
 
 ![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Design%20Process.png)
