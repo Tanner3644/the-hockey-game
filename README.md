@@ -18,12 +18,20 @@
 
 <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/41%20-%20Vega.png" width="200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/40%20-%20Walters.png" width="200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/14%20-%20Doig.png" width="200">
 
+Player Overall | 1st Round | 2nd Round | 3rd Round | Total
+--- | --- | --- | ---
+1 | 4 | 6 | 11 | 21
+2 | 5 | 8 | 8 | 18
+3 | 8 | 4 | 5 | 14
+4 | 1 | 0 | 0 | 1
+Total | 18 | 18 | 18 | 54 | 
+
 Player Overall | 1st Round | 2nd Round | 3rd Round
 --- | --- | --- | ---
-1 | 22.2% | 33.3% | 290 
-2 | 27.8% | 44.4% | 290 
-3 | 44.4% | 22.2% | 290
-4 | 5.56% | 0.00% | 290
+1 | 22.2% | 33.3% | 61.1%
+2 | 27.8% | 44.4% | 27.8% 
+3 | 44.4% | 22.2% | 11.1%
+4 | 5.56% | 0.00% | 0.00%
 
 ### Manager Cards
 
