@@ -11,3 +11,15 @@
 * Monthly layout following the timeline of the NHL off-season, pre-season, regular season and playoffs
 * Color coded card layout regions included on the board for quick setup
 * Score matrix included on baord to quickly calculate score based off of team overall and dice roll
+
+### Player Cards
+
+### Manager Cards
+
+### Trade Cards
+
+### Draft Pick Cards
+
+### Play Money
+
+### Rule Book
