@@ -2,9 +2,11 @@
 
 A table top board game I developed through two years of following the design process. 
 
+![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Design%20Process.png)
+
 ## Goals
 
-![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Design%20Process.png)
+* Design a functional, aesthetically pleasing game to play with close friends and family
 
 ## Components
 
