@@ -18,6 +18,10 @@
 
 <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/41%20-%20Vega.png" width="200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/40%20-%20Walters.png" width="200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/14%20-%20Doig.png" width="200">
 
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
 ### Manager Cards
 
 ### Trade Cards
