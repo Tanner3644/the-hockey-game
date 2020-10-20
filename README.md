@@ -19,7 +19,7 @@
 <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/41%20-%20Vega.png" width="200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/40%20-%20Walters.png" width="200">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/14%20-%20Doig.png" width="200">
 
 Player Overall | 1st Round | 2nd Round | 3rd Round | Total
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 1 | 4 | 6 | 11 | 21
 2 | 5 | 8 | 8 | 18
 3 | 8 | 4 | 5 | 14
