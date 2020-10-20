@@ -83,3 +83,5 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 
 ![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/board%20game%20cut%20out.png)
 
+<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/board%20game%20cut%20out%20side.png" width="400">
+
