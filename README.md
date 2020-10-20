@@ -72,3 +72,5 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/1M%20-%20Play%20Money.png" width="600">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/5M%20-%20Play%20Money.png" width="600">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/10M%20-%20Play%20Money.png" width="600">
 
 ### Rule Book
+
+<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Rulebook%20-%20Back.png" width="600">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/Rulebook%20-%20Front.png" width="600">
