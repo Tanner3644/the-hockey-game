@@ -48,7 +48,11 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 
 ### Manager Cards
 
+<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/0%20-%20Manager%20Card.png" width="300">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/7%20-%20Manager%20Card.png" width="300">
+
 ### Trade Cards
+
+<img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/0%20-%20Trade%20Card.png" width="300">  <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/screenshots/4%20-%20Trade%20Card.png" width="300">
 
 ### Draft Pick Cards
 
