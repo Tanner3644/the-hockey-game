@@ -114,6 +114,9 @@ Player Overall | 1st Round | 2nd Round | 3rd Round
 
 <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/board%20game%20cut%20out%20side.png" width="400"> <img src="https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/back.png" width="600">
 
-* I used the website [www.boardgamesmaker.com](https://www.boardgamesmaker.com/)
-* 
+* I had [www.boardgamesmaker.com](https://www.boardgamesmaker.com/) manufacture the 2nd and 3rd generation of the game
 
+
+Below is the order for 10 games of the 3rd generation for close friends and family
+
+![screenshot](https://github.com/Tanner3644/the-hockey-game/blob/main/Manufacturing/cost.JPG)
