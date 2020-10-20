@@ -10,7 +10,7 @@
 
 * Monthly layout following the timeline of the NHL off-season, pre-season, regular season and playoffs
 * Color coded card layout regions included on the board for quick setup
-* Score matrix included on baord to quickly calculate score based off of team overall and dice roll
+* Score matrix included on board to quickly calculate score based off of team overall and dice roll
 
 ### Player Cards
 
@@ -22,10 +22,10 @@
 * 18 player cards in each draft round (1-3, green-red)
 * Each player card has an overall from 1-4 stars
 * Each player has salary depending on there overall
-** 1-2$M for 1 Star player
-** 2-6$M for 2 Star player
-** 7-11$M for 3 Star player
-** 14$M for 4 Star player
+  * 1-2$M for 1 Star player
+  * 2-6$M for 2 Star player
+  * 7-11$M for 3 Star player
+  * 14$M for 4 Star player
 * There breakup of player cards can be seen in the tables below
 
 #### The number of player cards for in per round and per overall
