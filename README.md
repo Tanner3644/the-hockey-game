@@ -4,7 +4,7 @@ A table top board game I developed through two years of following the design pro
 
 * 1st generation
   * Cardboard game board
-  * Normal playing cards
+  * Normal deck of playing cards
   * Cardboard manager and trade cards
   * Monopoly play money and pieces
   * 1 manufactured
